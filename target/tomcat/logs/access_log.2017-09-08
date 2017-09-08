@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [08/Sep/2017:13:58:18 +0700] "GET /arief/client-request HTTP/1.1" 200 116 http-bio-9898-exec-2 68
+0:0:0:0:0:0:0:1 - - [08/Sep/2017:13:58:19 +0700] "GET /arief/client/request-header HTTP/1.1" 200 789 http-bio-9898-exec-3 4
+0:0:0:0:0:0:0:1 - - [08/Sep/2017:13:58:27 +0700] "GET /arief/client/request-header HTTP/1.1" 200 838 http-bio-9898-exec-4 4
